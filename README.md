@@ -22,3 +22,5 @@ The dataset from the public survey is available here: [Stack Overflow Annual Dev
   - The project identified numerous missing and ambiguous values in certain columns, which were removed from the rows based on the analytical task requirements.
   - More details can be found in the Python notebook file of the project as well.
 
+## Evaluation of Analysis
+The primary visuals that follow were created to offer context for a number of different queries.
