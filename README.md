@@ -1,4 +1,4 @@
-# Stack_Overflow_Annual_Developer_Survey_2024_Python_Project
+# StackOverflow Survey 2024 Python EDA
 
 ## Project Title
 Exploratory Data Analysis of the Stack Overflow Annual Developer Survey 2024
